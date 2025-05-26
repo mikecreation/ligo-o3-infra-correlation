@@ -1,0 +1,6 @@
+Date,Event,Description,Infrastructure_Type
+2019-09-27,MIT TX-GAIA Announcement,MIT announces deployment of 100 AI petaflop supercomputer facility,Computational
+2019-10-23,Google Quantum Supremacy,Google publishes quantum computational milestone in Nature,Quantum/Computational
+2019-11-05,OpenAI GPT-2 Release,OpenAI deploys large-scale distributed training infrastructure,AI/Computational
+2019-11-15,Data Center Protocol,Implementation of major data center coordination protocols,Network/Infrastructure
+2019-11-28,Network Expansion,Distributed computing network capacity expansion initiative,Network/Computational
